@@ -1,6 +1,9 @@
 # bcrypt
-Run composer
+
+Install & Run composer
+
 Run vendor/bin/phar-builder
 
 php bcrypt.phar <password>
+
 rejoice
