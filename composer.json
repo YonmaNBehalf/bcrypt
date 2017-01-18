@@ -1,0 +1,19 @@
+{
+  "name": "Behalf/bcrypt",
+  "description": "description_text",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Yonni Mendes",
+      "email": "yonni@behalf.com"
+    }
+  ],
+  "require": {
+    "zendframework/zend-crypt": "3.2.0",
+    "zendframework/zend-loader": "2.5.1"
+  },
+  "require-dev": {
+    "macfja/phar-builder": "0.2.5"
+  }
+}
